@@ -4,7 +4,7 @@ A tiny practice project for learning the GitHub pull request workflow.
 
 ## What it does
 
-The `greet` function lets you recieve a friendly greeting for any name.
+The `greet` function lets you receive a friendly greeting for any name.
 
 ## Usage
 
